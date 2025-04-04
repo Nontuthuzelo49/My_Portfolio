@@ -1,47 +1,58 @@
-# My_Portfolio
-Hackathon 1: Portfolio Building
+# My Portfolio 🌟
 
-Heads up!
-One assignment submission is allowed per group.
-🔹 Peer Group Collaboration
-Build your own portolio project and seek guidance and counsel from your peer group as you build. 
+Welcome to my personal portfolio! This is a modern, responsive web application showcasing my projects, skills, and professional background as a web developer. 
 
-Peer Group Structure:
-Support: Work together, share ideas, and troubleshoot issues collaboratively.
+## 🚀 **Live Demo**
+Check out the live version here: [Portfolio Live](https://my-portfolio-git-main-nontuthuzelos-projects.vercel.app)
 
-Leadership: Each group will have a peer leader responsible for guiding members and ensuring timely submissions.
+---
 
-Recognition: Peer groups where all members successfully submit their portfolios by the deadline will receive special recognition during the Award Ceremony.
+## 📌 **About the Portfolio**
+This portfolio is designed to highlight my journey as a developer and demonstrate my ability to create visually appealing and technically proficient websites. It's built with a focus on responsiveness, aesthetics, and performance.
 
-Benefits of Peer Groups:
-Get valuable feedback on your portfolio before submission.
+---
 
-Learn from your peers’ experiences.
+## 🔧 **Tech Stack**
+- **Framework**: [Next.js](https://nextjs.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Animations**: Framer Motion
+- **Hosting**: [Vercel](https://vercel.com/)
+- **Version Control**: Git & GitHub
 
-Celebrate success together as a team!
+---
 
-📂 Assignment Requirements
-All learners are required to submit a hackathon project.
+## ✨ **Features**
+- 📂 **Projects**: Showcase of my work with live previews and source code links.
+- 💼 **About Me**: A brief introduction to who I am and what I do.
+- 🛠️ **Skills**: Highlighting my technical expertise with a sleek design.
+- 📱 **Responsive Design**: Optimized for mobile, tablet, and desktop viewing.
+- 📎 **Contact Section**: Easy access to my social media and email.
 
-The project must be built strictly using HTML, CSS, javascript and Databases.
+---
 
-Submission must be done via this link: Submit Here.
+## 📑 **Getting Started**
+To view or modify this portfolio locally, follow these steps:
+1. Clone the repository:
+   ```bash
+   https://github.com/Nontuthuzelo49/My_Portfolio.git
+2. Navigate to the project folder:
+   cd portfolio
+   cd My_Portfolio
+3. Install dependencies:
+   npm install
+4. Run the development server:
+   npm run dev
 
-Participants should nominate the most outstanding portfolio project and paste the deployed link in the submissions section under their group.
+## 🛠️ **To-Do List**
+- [ ] Add more animations for interactive elements.
+- [ ] Improve accessibility (e.g., ARIA labels).
+- [ ] Update with new projects and blog posts.
 
-Individuals must star rate each other’s solutions and provide constructive comments based on the evaluation criteria below
+## 📣 **Feedback**
+I’d love to hear your thoughts! Feel free to create an issue or reach out via bridgetm6449@gmail.com
 
-🏆 Evaluation Criteria
-Submissions will be evaluated based on the following:
-
-Creativity and Ingenuity – Original ideas and standout features.
-
-Code Quality – Clean, readable, and efficient code.
-
-Documentation  – Informative README file and clear code comments.
-
-Deployment – Successfully hosted on a platform like GitHub Pages or Netlify.
-
-Development Process  – Effective collaboration and project management.
-
-Technology Stack – Usage of responsive, visually appealing design elements.
+## ✍️ **Author**
+Nontuthuzelo Bridget Mahlangu Aspiring software developer passionate about user-friendly and impactful solutions.
+- LinkedIn
+- Twitter
+- GitHub
