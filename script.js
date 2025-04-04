@@ -10,3 +10,17 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         }
     });
 });
+"configurations": [{
+        "name": "Launch Edge",
+        "request": "launch",
+        "type": "msedge",
+        "url": "http://localhost:5501",
+        "webRoot": "${workspaceFolder}"
+    },
+
+    {
+        "type": "msedge",
+        "request": "launch",
+        "name": "Open index.html",
+        "file": "c:\\Users\\User\\portfolio\\My_Portfolio\\index.html"
+        "file": "c:\\Users\\User\\portfolio\\My_Portfolio\\index.html"
